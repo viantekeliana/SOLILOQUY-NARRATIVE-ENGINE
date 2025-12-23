@@ -1,3 +1,56 @@
+SOLILOQUY-NARRATIVE-ENGINE DUAL LICENSE
+Version 1.0
+
+Copyright (c) [2025]
+[Rodney Manyakaidze/ Keliana Vianté on Facebook]
+
+--------------------------------------------------
+NON-COMMERCIAL LICENSE (FREE)
+--------------------------------------------------
+
+Permission is hereby granted to any individual or organization to view,
+use, reproduce, and modify this work for non-commercial purposes only,
+including research, education, evaluation, and personal use.
+
+Non-commercial use explicitly excludes any use that:
+- is part of a product or service offered for sale
+- generates revenue directly or indirectly
+- provides commercial, competitive, or strategic advantage
+- is used within a for-profit organization beyond evaluation or research
+
+Attribution must be preserved.
+
+This license does not grant the right to sublicense this work for
+commercial purposes.
+
+--------------------------------------------------
+COMMERCIAL LICENSE (PAID)
+--------------------------------------------------
+
+Any commercial use of this work requires a separate, explicit
+commercial license agreement.
+
+Commercial use includes, but is not limited to:
+- integration into commercial software or services
+- use in AI systems deployed for business purposes
+- consulting, advisory, or professional services
+- internal use within for-profit organizations beyond evaluation
+- derivative works used commercially
+
+To obtain a commercial license, contact:
+
+[Your contact email or website]
+
+--------------------------------------------------
+DISCLAIMER
+--------------------------------------------------
+
+This work is provided "as is", without warranty of any kind.
+The authors are not liable for damages arising from its use.
+
+--------------------------------------------------
+END OF LICENSE
+--------------------------------------------------
 # SOLILOQUY-NARRATIVE-ENGINE
 Soliloquy is a narrative systems engine designed to preserve meaning, moral continuity, and interpretability within complex human–machine interactions It focuses on why a system speaks, how reasoning unfolds over time, and whether outputs remain coherent to human values under constraint.
 # Soliloquy
